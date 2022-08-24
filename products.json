@@ -1,0 +1,45 @@
+[
+    {
+        "name": "accent chair",
+        "price": 25,
+        "company": "marcos",
+        "rating": 4
+    },
+    {
+        "name": "albany sectional",
+        "price": 109,
+        "company": "liddy",
+        "rating": 5
+    },
+    {   
+        "name": "armchair",
+        "price": 125,
+        "company": "marcos",
+        "rating": 4.9
+    },
+    {
+        "name": "table",
+        "price": 300,
+        "company": "marcos",
+        "rating": 5
+    },
+    {
+        "name": "bookshelf",
+        "price": 200,
+        "company": "caressa",
+        "rating": 1.5
+    },
+    {
+        "name": "pot",
+        "price": 150,
+        "company": "ikea",
+        "rating": 4
+    },
+    {
+        "name": "bed",
+        "price": 200,
+        "company": "ikea",
+        "featured": true,
+        "rating": 2
+    }
+]
